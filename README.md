@@ -7,7 +7,7 @@ I am a creative problem solver who enjoys finding elegant solutions to complex c
 * ✉️  You can contact me at [sonwabilecwala6@gmail.com](mailto:sonwabilecwala6@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on .NET projects
-* ⚡  All I need is a cup <T> to prove that 1 + 1 != 2
+* ⚡  I'm not a bug, I'm a feature!
 
 ### Skills
 
